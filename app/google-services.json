@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "212944460008",
+    "firebase_url": "https://jsouppractice.firebaseio.com",
+    "project_id": "jsouppractice",
+    "storage_bucket": "jsouppractice.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:212944460008:android:9c52697424df254bb0d15d",
+        "android_client_info": {
+          "package_name": "com.example.jsouppractice"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "212944460008-t3l66ig50nqhbg76rtpri64h9130i9ks.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.jsouppractice",
+            "certificate_hash": "d975a4f188c482c15bf43b49db6a77133be2d332"
+          }
+        },
+        {
+          "client_id": "212944460008-09k9ndit04hn75l78v4mqol4vsm2dkc1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDkQLVSXkZvfaHbwrAy4wvlhtEAbSwUyZU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "212944460008-09k9ndit04hn75l78v4mqol4vsm2dkc1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
